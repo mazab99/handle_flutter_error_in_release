@@ -64,7 +64,8 @@ return const MyAppCard(
 
 | Expected              | Default Error               | Release Error               | Debug and/or Release with Custom Widget |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------------------- |
-| <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/e514f942-540b-4602-b7b5-2cb3d1a20823" width="200" height="200"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/5e384f72-8b12-4f4a-9690-23d1153acb9b" width="200" height="200"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/b724c986-fc70-44cc-b597-4c6221674986" width="200" height="200"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/5bf7b457-893d-49c9-991c-e74bd7c7a0ff" width="200" height="200"> |
+| <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/e514f942-540b-4602-b7b5-2cb3d1a20823" width="200" height="300"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/5e384f72-8b12-4f4a-9690-23d1153acb9b" width="200" height="300"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/b724c986-fc70-44cc-b597-4c6221674986" width="200" height="300"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/5bf7b457-893d-49c9-991c-e74bd7c7a0ff" width="200" height="300"> |
+
 
 
 
