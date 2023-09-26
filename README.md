@@ -4,10 +4,10 @@
 
 Do you know how to customize this error screen?
 
-🐛 Debug Mode | 📱 Release Mode
-:-------------------------:|:-------------------------:
-![mode_debug](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/63b08c25-131d-4d10-beea-4cf05ed3313b)
-|![mode_release](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/60fc8285-e278-455d-8fda-31b9d5c26c6c)
+🐛 Debug Mode![mode_debug](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/31ad13b7-8971-48ee-abfc-70c503f12d04)
+
+
+
 
 
 
