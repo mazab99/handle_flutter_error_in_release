@@ -5,9 +5,10 @@
 Do you know how to customize this error screen?
 
 
-| Release Mode![mode_debug](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/44fd4c37-891c-4b20-9838-10a3eb69bb38)
-                 | Debug Mode                   |
-![mode_release](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/55c53f70-48e6-427f-b5a9-50d2e2c54c93)
+| Debug Mode                  | Release Mode                 |
+| --------------------------- | ---------------------------- |
+| ![Debug Mode](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/44fd4c37-891c-4b20-9838-10a3eb69bb38) | ![Release Mode](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/55c53f70-48e6-427f-b5a9-50d2e2c54c93) |
+
 
 
 
