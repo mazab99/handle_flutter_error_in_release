@@ -35,10 +35,10 @@ class MyHomePage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             // This will throw an error
-            TestErrorExample(),
+            //TestErrorExample(),
             SizedBox(height: 20),
             // This will not throw an error
-            TestErrorExample(name: ' Mahmoud Azab!'),
+            //TestErrorExample(name: ' Mahmoud Azab!'),
           ],
         ),
       ),
