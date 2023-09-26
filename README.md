@@ -62,13 +62,10 @@ return const MyAppCard(
 
 ### How will it be
 
-| Expected               | Default Error               | Release Error               | Debug and/or Release with Custom Widget |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------------------- |![Screenshot_1695721873](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/682f0b25-2e8f-48d4-8b52-c0919c1eb7ea)
-![mode_release](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/3f3511cd-73cf-47cc-a7a3-0b14fde7dd88)
+| Expected Error              | Default Error               | Release Error               | Debug and/or Release with Custom Widget |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------------------- |
+| ![Expected Error](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/e514f942-540b-4602-b7b5-2cb3d1a20823) | ![Default Error](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/5e384f72-8b12-4f4a-9690-23d1153acb9b) | ![Release Error](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/b724c986-fc70-44cc-b597-4c6221674986) | ![Custom Widget](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/5bf7b457-893d-49c9-991c-e74bd7c7a0ff) |
 
-| <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/b0f8458b-8e61-49be-a993-4938c21![mode_debug]![Screenshot_1695721815](https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/f866322e-d765-4c84-ae4f-dfe090fcc011)
-(https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/b103bffb-a4c5-4585-8643-88f5eddd0fea)
-0b079" width="200"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/22d248d5-f684-4646-94ca-3e626f8fd018" width="200"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/0876912d-6ec9-4615-98e0-46ac76d76b32" width="200"> | <img src="https://github.com/mazab99/handle_flutter_error_in_release/assets/108914401/b28b2444-c609-4cc6-92d6-565f4f72a1fa" width="200"> |
 
 
 
