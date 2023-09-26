@@ -62,9 +62,13 @@ return const MyAppCard(
 
 Expected | Default Error | Release Error | Debug and/or Release with custom widget
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
- | <img src=".github/images/grid_2.png" width="420"> | <img src=".github/images/grid_3.png" width="420"> | 
+ |  ![Screenshot_1695721873](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/b0f8458b-8e61-49be-a993-4938c210b079)
+  | <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/22d248d5-f684-4646-94ca-3e626f8fd018" width="420"> | ![mode_release](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/0876912d-6ec9-4615-98e0-46ac76d76b32)  |![Screenshot_1695721815](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/b28b2444-c609-4cc6-92d6-565f4f72a1fa)
+
+
 
 --- 
+
 
 > So, did you know this strategy?
 >
