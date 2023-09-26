@@ -6,7 +6,8 @@ Do you know how to customize this error screen?
 
 🐛 Debug Mode | 📱 Release Mode
 :-------------------------:|:-------------------------:
-<img src=".github/images/mode_debug.png" width="420"> | <img src=".github/images/mode_release.png" width="420">
+<img src="[.github/images/mode_debug.png](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/a450ca1e-409e-4dcf-958b-0a9aa32c9595)" width="420"> | <img src="[.github/images/mode_release.png](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/7641dc2e-730e-4f65-bdc2-214a53ee8b9a)" width="420">
+
 
 ---
 
