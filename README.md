@@ -62,7 +62,7 @@ return const MyAppCard(
 
 | Expected Error              | Default Error               | Release Error               | Debug and/or Release with Custom Widget |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------------------- |
-| ![Expected Error](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/b0f8458b-8e61-49be-a993-4938c210b079) | ![Default Error](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/22d248d5-f684-4646-94ca-3e626f8fd018) | ![Release Error](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/0876912d-6ec9-4615-98e0-46ac76d76b32) | ![Custom Widget](https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/b28b2444-c609-4cc6-92d6-565f4f72a1fa) |
+| <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/b0f8458b-8e61-49be-a993-4938c210b079" width="200"> | <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/22d248d5-f684-4646-94ca-3e626f8fd018" width="200"> | <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/0876912d-6ec9-4615-98e0-46ac76d76b32" width="200"> | <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/b28b2444-c609-4cc6-92d6-565f4f72a1fa" width="200"> |
 
 
 
