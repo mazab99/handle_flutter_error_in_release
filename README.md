@@ -4,17 +4,17 @@
 
 Do you know how to customize this error screen?
 
-
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/31ad13b7-8971-48ee-abfc-70c503f12d04" alt="Debug Mode" width="80%">
-        <p>Debug Mode</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/7a42e0c2-7efb-4252-8aeb-ae80a5520a14" alt="Release Mode" width="80%">
+        <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/7a42e0c2-7efb-4252-8aeb-ae80a5520a14" alt="Release Mode" width="45%">
         <p>Release Mode</p>
     </div>
+    <div style="text-align: center;">
+        <img src="https://github.com/mazab99/handel_flutter_error_in_release/assets/108914401/31ad13b7-8971-48ee-abfc-70c503f12d04" alt="Debug Mode" width="45%">
+        <p>Debug Mode</p>
+    </div>
 </div>
+
 
 
 
